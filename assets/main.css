@@ -20,7 +20,7 @@ body {
   width: 50%;
   border-radius: 15px;
   background: rgba(150, 180, 180, 0.6);
-  box-shadow: hsla(0, 0%, 0%, .2) 10px 10px     80px;
+  box-shadow: hsla(0, 0%, 0%, .8) 10px 10px     80px;
   margin-bottom: 5%;
   text-align: center;
 
@@ -40,7 +40,7 @@ body {
 }
 img {
   padding: 1px;
-  background-color: #666;
+  
   transition: all 0.5s ease-in-out;
   filter: grayscale(30%);
 }
