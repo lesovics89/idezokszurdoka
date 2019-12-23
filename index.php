@@ -21,8 +21,8 @@
      <div id="name-headline">
        <strong></strong>
        <h1>Üdvözöllek az idézők szurdokában</h1>
-	   <?php include 'hir.php';?>
 	   
+	   <iframe src="https://lesovics89.github.io/idezokszurdoka/hir.php"></iframe>
        
      </div>
      
